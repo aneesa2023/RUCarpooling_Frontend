@@ -94,13 +94,8 @@ Let's make university commuting **more affordable, secure, and efficient togethe
 🔗 **[Firebase App Distribution](appdistribution.firebase.google.com)**  
 
 ---
-### 📸 Screenshots  
-![Search Route](demo_screenshots/search_route.jpeg)  
-![Post Ride Details](demo_screenshots/post_ride_details.jpeg)  
-![Posted Rides List](demo_screenshots/posted_rides_list.jpeg)  
-![Home Page](demo_screenshots/home_page.jpeg)  
-![Menu](demo_screenshots/menu.jpeg)  
-![My Trips List](demo_screenshots/my_trips_list.jpeg)  
+### 📸 Check out demo video here: 
+🔗  https://vimeo.com/1054955277?share=copy
 
 🚀 **RU Carpooling – Making campus commuting smarter, greener, and more affordable!**
 
