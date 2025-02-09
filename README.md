@@ -62,7 +62,7 @@ We welcome contributions from the Rutgers developer community! If you want to he
 
 Fork the repository 🍴
 Clone the repository 🖥
-git clone https://github.com/aneesa2023/ru_carpooling_frontend.git
+[git clone https://github.com/aneesa2023/ru_carpooling_frontend.git](https://github.com/aneesa2023/RUCarpooling_Frontend)
 
 Create a new branch 🌱
 git checkout -b feature-branch-name
